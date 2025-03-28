@@ -39,6 +39,6 @@ I have 2+ years of professional experience in **cloud security**, **SIEM-based t
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/bala-prasanna-gopal-volisetty-2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bala-prasanna-gopal-volisetty-2001/)
 
 Let's build and break things ethically! 🧠⚙️💻

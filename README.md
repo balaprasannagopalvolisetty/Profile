@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bala Volisetty (aka Lostsec)
+# 👋 Hi there, I'm Bala Prasanna Gopal Volisetty
 
 🎯 Cybersecurity Engineer | Bug Hunter | Malware Analyst | Cloud Defender  
 🔐 Passionate about building a safer digital world through hands-on security research, tool development, and threat detection.
